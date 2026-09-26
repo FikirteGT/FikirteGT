@@ -1,49 +1,52 @@
-# 👋 Hi, I'm Fikrte
+# 👋 Hi, I'm Fikirte
+
+### Information Systems Student | Backend & AI Developer | Mobile Developer
 
 I build practical software systems that solve real-world problems.
 
-I'm an Information Systems student interested in backend development, AI-powered applications, mobile applications, and scalable software systems.
+I'm interested in backend development, AI-powered applications, mobile applications,
+real-time systems, databases, and scalable software architectures.
 
 ---
 
 ## 🚀 What I'm Working On
 
 ### 🎯 Job Radar
-An intelligent job discovery platform designed to help users find relevant opportunities efficiently.
+
+An intelligent job discovery platform designed to help users find relevant
+job opportunities efficiently.
 
 - 🤖 Job collection and filtering
 - 🔎 Intelligent job search
-- 📱 User-friendly interface
 - ⚙️ Backend services and APIs
 - 🔔 Job notifications
 - 🧠 AI-powered features
 
-### 🏥 MerihCare
-A healthcare platform connecting patients with healthcare providers.
+### 🎓 Temar Lije
 
-- 📱 Flutter mobile applications
-- 🌐 React admin dashboard
-- ⚙️ NestJS backend
-- 🗄️ PostgreSQL
-- ☁️ Microsoft Azure
-- 🔐 Authentication & authorization
-- 💳 Payment integration
-- 🔔 Notifications
-- 📍 Location & provider dispatching
+A collaborative university learning platform designed to support students
+and instructors through digital learning tools.
+
+- 📚 Course and learning management
+- 📝 Assignments and quizzes
+- 👥 Groups and collaboration
+- 📊 Attendance management
 - 💬 Real-time communication
+- 🔄 Offline synchronization
 
 ### 💰 SplitterBuddy
+
 A mobile application for managing and splitting shared expenses.
 
-- 📱 Flutter
-- 🔥 Firebase
+- 📱 Flutter mobile application
+- 🔥 Firebase integration
 - 👥 Group expense management
 - 💵 Expense splitting
 - ☁️ Cloud data storage
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
@@ -68,13 +71,61 @@ A mobile application for managing and splitting shared expenses.
 ### Database & Cloud
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### AI & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🎯 Job Radar
+
+An intelligent job discovery and aggregation platform designed to help
+users find relevant opportunities more efficiently.
+
+Backend • APIs • AI • Data Processing
+
+### 🎓 Temar Lije
+
+A collaborative university learning platform featuring attendance,
+assignments, quizzes, groups, and real-time communication.
+
+React • NestJS • Prisma • SQLite • WebSockets
+
+### 💰 SplitterBuddy
+
+A mobile application for managing and splitting shared expenses
+between groups of users.
+
+Flutter • Dart • Firebase
+
+### 🌤️ Weather App
+
+A Flutter weather application that retrieves real-time weather information
+through a public weather API.
+
+Flutter • Dart • REST API
+
+### 🤖 RAG Applications
+
+Source-grounded AI applications built using Retrieval-Augmented Generation
+to answer questions based on specific documents and knowledge sources.
+
+Python • FastAPI • Streamlit • Chroma • LLMs
+
+### 🏛️ Adwa AI Assistant
+
+An AI assistant built around document-based knowledge retrieval,
+designed to provide responses grounded in a defined knowledge base.
+
+Python • FastAPI • RAG • LLMs
 
 ---
 
@@ -88,31 +139,54 @@ A mobile application for managing and splitting shared expenses.
 - 🗄️ Database design
 - ☁️ Cloud technologies
 - 🔐 Authentication & secure systems
+- 🏗️ System design
 
 ---
 
-## 📌 Featured Projects
+## 📚 Currently Learning
 
-| Project | Description | Technologies |
-|---|---|---|
-| 🎯 Job Radar | Job discovery and aggregation platform | Backend, AI, APIs |
-| 🏥 MerihCare | Healthcare service platform | Flutter, React, NestJS, PostgreSQL |
-| 💰 SplitterBuddy | Shared expense management app | Flutter, Firebase |
-| 🌤️ Weather App | Weather application using a public API | Flutter, REST API |
-| 📚 RAG Projects | Source-grounded AI applications | Python, FastAPI, Chroma, LLMs |
+- Advanced Backend Architecture
+- Real-Time Systems
+- Cloud Deployment
+- Docker & DevOps
+- System Design
+- AI Integration
+- Software Architecture
+- Database Architecture
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gfani&theme=dark" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gfani&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gfani&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Connect With Me
 
-I'm interested in building practical technology, collaborating on meaningful projects, and learning from other developers.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
-⭐ Feel free to explore my repositories and follow my journey.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gfani)
+
+---
+
+### 💡 Building. Learning. Improving.
+
+I enjoy turning ideas into reliable software and continuously improving
+my skills through real-world projects.
+
+🚀 **Building practical solutions, one project at a time.**
